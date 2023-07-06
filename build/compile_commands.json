@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/workspaces/mycpp1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++2a -Wall -Wextra -o CMakeFiles/myprogram.dir/main.cpp.o -c /workspaces/mycpp1/main.cpp",
+  "file": "/workspaces/mycpp1/main.cpp",
+  "output": "CMakeFiles/myprogram.dir/main.cpp.o"
+},
+{
+  "directory": "/workspaces/mycpp1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++2a -Wall -Wextra -o CMakeFiles/myprogram.dir/MyClass.cpp.o -c /workspaces/mycpp1/MyClass.cpp",
+  "file": "/workspaces/mycpp1/MyClass.cpp",
+  "output": "CMakeFiles/myprogram.dir/MyClass.cpp.o"
+}
+]
